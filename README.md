@@ -1,5 +1,5 @@
 ### ***YOOOOOOOOOOOOOOOOOOO*** <img align="right" src="bangbang.gif" width="150">
-***Hola soy Simoneee***
+***Hola soy Saimonelkin (aka Simon Ars)***
 
 I'm making my own game on <a href="https://haxe.org">Haxe <img width="18" height="18" src="haxe.png"></a>
 
@@ -17,8 +17,8 @@ I'm making my own game on <a href="https://haxe.org">Haxe <img width="18" height
   - My first and main project! You can say it's just a Friday night Funkin' mod, so what? I try to get away from it and go in my own direction, yes, gameplay is the same, but plot, mechanics, approach to game... I'll try to make candy out of it and make it the best project of my life.
 
 
-- **MAX (aka Fake Max)**
-  - Just a funny project made purely for fun during the day. It's a sensitive topic for Russian residents (that is, for me too...)
+- <a href="https://github.com/SimonArs/FakeMax">**MAX (aka Fake Max)**</a>
+  - Just a funny project made purely for fun during the day. It's a sensitive topic for Russian residents (that's for me too...)
 
 ## My socials:
 Do you want to follow my projects?
