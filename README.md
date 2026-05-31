@@ -1,4 +1,4 @@
-### ***YOOOOOOOOOOOOOOOOOOO*** <img align="right" src="bangbang.gif" width="160">
+### ***YOOOOOOOOOOOOOOOOOOO*** <img align="right" src="bangbang.gif" width="150">
 ***Hola soy Simoneee***
 
 I'm making my own game on <a href="https://haxe.org">Haxe <img width="18" height="18" src="haxe.png"></a>
