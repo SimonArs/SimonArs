@@ -31,3 +31,5 @@ If you want to donate to me for the development, then here is my <a href="https:
 
 ## Well...
 Thanks for reading this shit! I'm really pleased. Have a nice day and night! ;D
+
+https://count.getloli.com/get/@simonars?theme=original-new
