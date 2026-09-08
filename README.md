@@ -1,19 +1,17 @@
 ### ***YOOOOOOOOOOOOOOOOOOO*** <img align="right" src="bangbang.gif" width="150">
 ***Hola soy Saimonelkin (aka Simon Ars)***
 
-I'm making my own game on <a href="https://haxe.org">Haxe <img width="18" height="18" src="haxe.png"></a>
+Making my own game on <a href="https://haxe.org">Haxe <img width="18" height="18" src="haxe.png"></a>
 
-## Also use Haxelibs such as:
+## Contributor of repos such as:
 
-- <a href="https://lime.openfl.org">**Lime** <img width="18" height="18" src="lime.png"></a>
+- <a href="https://github.com/HaxeFlixel/flixel">**Flixel** <img width="18" height="18" src="flixel.png"></a>
 
-- <a href="https://openfl.org">**Openfl** <img width="18" height="18" src="openfl.png"></a>
-
-- <a href="https://haxeflixel.com">**Flixel** <img width="18" height="18" src="flixel.png"></a>
+- <a href="https://github.com/ShadowEngineTeam/FNF-Shadow-Engine">**Shadow Engine** <img width="18" height="18" src="se.png"></a>
 
 ## My own projects:
 
-- **Story of Dawn (aka soda)**, not on github yet :>
+- **Story of Dawn (aka soda)**, private for now :>
   - My first and main project! You can say it's just a Friday night Funkin' mod, so what? I try to get away from it and go in my own direction, yes, gameplay is the same, but plot, mechanics, approach to game... I'll try to make candy out of it and make it the best project of my life.
 
 
