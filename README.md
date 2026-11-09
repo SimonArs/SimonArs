@@ -1,4 +1,4 @@
-### ***YOOOOOOOOOOOOOOOOOOO*** <img align="right" src="bangbang.gif" width="150">
+### ***YOOOOOOOOOOOOOOOOOOO*** <img align="right" src="bangbang.gif" width="100">
 ***Hola soy Saimonelkin (aka Simon Ars)***
 
 Making my own game on <a href="https://haxe.org">Haxe <img width="18" height="18" src="haxe.png"></a>
